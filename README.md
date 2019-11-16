@@ -10,9 +10,9 @@ That's the reason why our prototype has this features:
 
 2) Interface by a voice assistant (Google API);
 
-3)Check wether all the items are in the toolbox or not (NFC);
+3) Check wether all the items are in the toolbox or not (NFC);
 
-4)Object can produce a loud noise on will to be localized faster;
+4) Object can produce a loud noise on will to be localized faster;
 
 Team Members:
 Alessandro Taufer, Ivan Valentini, Marco Keppel, Albero Iori.
